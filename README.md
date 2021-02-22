@@ -5,7 +5,7 @@ The user has to run the file "main.py". This will open the screen of the Turtle 
 Then, using keys from the keyboard the user can move the cursor across the screen, in any direction.
 Thus the user will be able to draw figures.
 
-Press "w" to go up
-Press "s" to go down
-Press "a" to turn to the left
-Press "d" to turn to the right
+Press "w" to go up  
+Press "s" to go down  
+Press "a" to turn to the left  
+Press "d" to turn to the right  
